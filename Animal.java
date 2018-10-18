@@ -7,7 +7,7 @@ public class Animal {
 
 	//Definicion de los metodos
 	public void nace(){
-		System.out.println("Hola, he nacido");
+		System.out.println("Hola soy Dios y he nacido");
 	}
 
 	public String getNombre(){
